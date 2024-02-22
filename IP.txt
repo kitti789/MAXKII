@@ -1,0 +1,3 @@
+belink_F5
+IP: 172.16.70.80/update ---------- สำหรับ Flash firmware
+IP: 172.16.70.80 --------------- สำหรับ Configuration IP
